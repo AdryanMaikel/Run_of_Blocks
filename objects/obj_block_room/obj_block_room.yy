@@ -2,14 +2,12 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_block_room",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Blocks",
-    "path": "folders/Objetos/Blocks.yy",
+    "path": "folders/Objects/Blocks.yy",
   },
   "parentObjectId": null,
   "persistent": false,

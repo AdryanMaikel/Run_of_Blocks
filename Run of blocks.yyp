@@ -18,9 +18,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensões","folderPath":"folders/Extensões.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fontes","folderPath":"folders/Fontes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Linhas do tempo","folderPath":"folders/Linhas do tempo.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Blocks","folderPath":"folders/Objetos/Blocks.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Game","folderPath":"folders/Objetos/Game.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Blocks","folderPath":"folders/Objects/Blocks.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Game","folderPath":"folders/Objects/Game.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
@@ -34,7 +34,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
