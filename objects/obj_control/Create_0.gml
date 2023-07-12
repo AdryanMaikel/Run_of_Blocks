@@ -1,2 +1,3 @@
 /// @description 
-//
+// 
+points = 0;
