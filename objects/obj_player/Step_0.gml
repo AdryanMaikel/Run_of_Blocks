@@ -1,8 +1,8 @@
 /// @description Movimentação e colisão
 //
 #region Movimentação
-var _up = keyboard_check(ord("W"));
-var _down = keyboard_check(ord("S"));
+var _up = keyboard_check(ord("W")) or (mouse_y < room_height/2 and mouse_check_button(mb_left));
+var _down = keyboard_check(ord("S")) or (mouse_y > room_height/2 and mouse_check_button(mb_left));
 //setando velocidade vertical
 speed_y = (_down - _up) * speed_player;
 if _up or _down global.start_game = true;
