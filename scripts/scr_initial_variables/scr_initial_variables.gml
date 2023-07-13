@@ -4,7 +4,7 @@ randomize();
 global.points = 0;
 global.start_game = false;
 global.end_game = false;
-global.speed_game = -1;
+global.speed_game = 1;
 global.record = 0;
 function scr_initial_variables(){
 

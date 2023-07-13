@@ -10,6 +10,7 @@
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
     {"name":"Blocks","order":2,"path":"folders/Objects/Blocks.yy",},
     {"name":"Game","order":3,"path":"folders/Objects/Game.yy",},
+    {"name":"Objects Player","order":4,"path":"folders/Objects/Objects Player.yy",},
     {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
     {"name":"Sequências","order":10,"path":"folders/Sequências.yy",},
@@ -17,7 +18,6 @@
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
     {"name":"Blocks","order":4,"path":"folders/Sprites/Blocks.yy",},
-    {"name":"Objects Player","order":4,"path":"folders/Objects/Objects Player.yy",},
     {"name":"Sprites Block","order":4,"path":"folders/Sprites/Blocks/Sprites Block.yy",},
     {"name":"Sprites Player","order":5,"path":"folders/Sprites/Blocks/Sprites Player.yy",},
   ],
@@ -31,6 +31,6 @@
     {"name":"obj_end_game_top","order":1,"path":"objects/obj_end_game_top/obj_end_game_top.yy",},
     {"name":"spr_player_destroy","order":1,"path":"sprites/spr_player_destroy/spr_player_destroy.yy",},
     {"name":"spr_block_end_game","order":1,"path":"sprites/spr_block_end_game/spr_block_end_game.yy",},
-    {"name":"obj_block_run","order":1,"path":"objects/obj_block_run/obj_block_run.yy",},
+    {"name":"obj_block","order":1,"path":"objects/obj_block/obj_block.yy",},
   ],
 }
