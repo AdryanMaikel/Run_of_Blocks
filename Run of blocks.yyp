@@ -53,6 +53,7 @@
     {"id":{"name":"obj_player_destroy","path":"objects/obj_player_destroy/obj_player_destroy.yy",},},
     {"id":{"name":"scr_initial_variables","path":"scripts/scr_initial_variables/scr_initial_variables.yy",},},
     {"id":{"name":"spr_block_end_game_top","path":"sprites/spr_block_end_game_top/spr_block_end_game_top.yy",},},
+    {"id":{"name":"snd_background","path":"sounds/snd_background/snd_background.yy",},},
     {"id":{"name":"obj_end_game_top","path":"objects/obj_end_game_top/obj_end_game_top.yy",},},
     {"id":{"name":"spr_player_destroy","path":"sprites/spr_player_destroy/spr_player_destroy.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
