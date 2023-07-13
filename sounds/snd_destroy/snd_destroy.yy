@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_background",
+  "name": "snd_destroy",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 230.4262,
+  "duration": 0.528,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_background.mp3",
+  "soundFile": "snd_destroy.mp3",
   "type": 0,
-  "volume": 0.8,
+  "volume": 0.1,
 }

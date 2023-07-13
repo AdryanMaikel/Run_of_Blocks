@@ -18,6 +18,7 @@ or place_meeting(x, y, obj_end_game_bot)
 	global.start_game = false;
 	if global.points > global.record global.record = global.points;
 	repeat 100 instance_create_layer(x+irandom_range(0,32), y+irandom_range(0,32),"Instances", obj_player_destroy);
+	audio_play_sound(snd_destroy,1,false);
 	instance_destroy();
 } // end game
 x+=speed_x;

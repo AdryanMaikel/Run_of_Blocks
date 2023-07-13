@@ -29,6 +29,7 @@
     {"name":"spr_block_destroy","order":1,"path":"sprites/spr_block_destroy/spr_block_destroy.yy",},
     {"name":"obj_player_destroy","order":1,"path":"objects/obj_player_destroy/obj_player_destroy.yy",},
     {"name":"obj_end_game_top","order":1,"path":"objects/obj_end_game_top/obj_end_game_top.yy",},
+    {"name":"snd_destroy","order":1,"path":"sounds/snd_destroy/snd_destroy.yy",},
     {"name":"spr_player_destroy","order":1,"path":"sprites/spr_player_destroy/spr_player_destroy.yy",},
     {"name":"spr_block_end_game","order":1,"path":"sprites/spr_block_end_game/spr_block_end_game.yy",},
     {"name":"obj_block","order":1,"path":"objects/obj_block/obj_block.yy",},
